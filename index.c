@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <cptype.h>
+#include <ctype.h>
 #include <string.h>
 #include <cs50.h>
 
@@ -17,3 +17,4 @@ int main (void){
   printf("T: %s\n,t);
   return 0;
   }
+//hello guys this code was written just a few moments
